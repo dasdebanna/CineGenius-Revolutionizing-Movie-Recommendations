@@ -99,7 +99,7 @@ The recommend() function is called with a sample input movie title to demonstrat
 The function outputs a list of recommended movies based on the cosine similarity scores.
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1h-0ywmnKiGQtFoy21eniNb0L_sNqn4n6/view?usp=drive_link)
+![App Screenshot](https://github.com/dasdebanna/CineGenius-Revolutionizing-Movie-Recommendations/blob/main/images/screenshot-1.png)
 
 
 ## Conclusion
