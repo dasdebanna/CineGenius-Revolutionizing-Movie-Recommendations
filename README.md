@@ -1,4 +1,3 @@
-
 ![Logo](https://github.com/dasdebanna/CineGenius-Revolutionizing-Movie-Recommendations/blob/main/images/movie-recommendation.png)
 
 
