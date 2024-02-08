@@ -11,7 +11,7 @@ I have used the TMDB 5000 Movie Dataset. That data I have used consists of 5000 
 
 
 ## Essential Libraries
-```nltk```, ```scikit-learn```, ```NumPy``` and ```Pandas```.
+```nltk```, ```scikit-learn```, ```NumPy``` and ```Pandas```
 ## Data Pre-processing
 Data pre-processing is a crucial step in any machine learning project. It involves cleaning and transforming raw data into a format that is suitable for analysis and modeling. Below are the data pre-processing steps applied to ```CineGenius: Revolutionizing Movie Recommendations```
 
